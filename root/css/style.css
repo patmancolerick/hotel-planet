@@ -27,6 +27,17 @@ header {
     z-index: 999;
 }
 
+
+/* SCREEN 1 */
+
+label {
+    color: black;
+    font-weight: bold;
+    display: block;
+    width: 130px;
+    float: left;
+  }
+
 img {
 	padding: 0 0.5rem 0 0;
 	height: 200px;
