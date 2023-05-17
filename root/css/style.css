@@ -32,21 +32,21 @@ img {
 	height: 200px;
 }
 
-.button-1 {
+.button1 {
     background-color: #5565FF;
     padding: 14px 40px;
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 } 
 
-.button-2 {
+.button2 {
     background-color: #8DE0EC;
     padding: 14px 40px;
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 } 
 
-.button-3 {
+.button3 {
     background-color: #8DE0EC;
     padding: 14px 40px;
     border-radius: 8px;
